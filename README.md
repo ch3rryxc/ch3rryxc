@@ -15,8 +15,8 @@ Hi, I'm cherryxc. I'm an independent developer focused on automation, security, 
 ### 🧠 Languages
 - **Python** (main)
 - Bash (basic scripting)
-- JavaScript (occasionally)
-- HTML & CSS (occasionally)
+- JavaScript (basic)
+- HTML & CSS (basic)
 
 ### 🖥 Backend & DevOps
 - **Flask**, **FastAPI**
