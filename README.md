@@ -9,13 +9,13 @@ Hi, I'm cherryxc. I'm an independent developer focused on automation, security, 
 - 🏠 Built a **Home Assistant** smart home with Zigbee devices (fully self-mounted & Docker-powered)
 - ⚙️ From Minecraft shop bots to email checkers, I automate everything
 - 🔐 Background in **cybersecurity**
-- 💻 First VPS-secured zero-trust project deployed at 15 — including HTTPS, firewall, fail2ban and JWT
+- 💻 First zero-trust production setup at 15 — including HTTPS, firewall, fail2ban and JWT
 
 ## 🛠️ Tech Stack
 
 ```
 Python (advanced) · Linux · Docker · Flask · FastAPI · Telethon · aiogram
-Home Assistant · Zigbee · SQLite · Git ·  · Web scraping · TTS (XTTS)
+Home Assistant · Zigbee · SQLite · Git · Web scraping · TTS (XTTS) · and pretty much everything...
 ```
 
 ## 📦 Highlight Projects
@@ -29,5 +29,4 @@ Home Assistant · Zigbee · SQLite · Git ·  · Web scraping · TTS (XTTS)
 | **Email Checkers** | Outlook, GMX, ProtonMail, etc. account existence validators              | requests, proxies, headers             |
 
 ## 🌍 Website
-
-You can see more about my work here: [https://cherryxc.lol](https://cherryxc.lol)
+[https://cherryxc.lol](https://cherryxc.lol)
