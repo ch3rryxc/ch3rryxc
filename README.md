@@ -13,10 +13,20 @@ Hi, I'm cherryxc. I'm an independent developer focused on automation, security, 
 
 ## 🛠️ Tech Stack
 
-```
-Python (advanced) · Linux · Docker · Flask · FastAPI · Telethon · aiogram
-Home Assistant · Zigbee · SQLite · Git · Web scraping · TTS (XTTS) · and pretty much everything...
-```
+### 🧠 Languages
+- **Python** (main)
+- Bash (basic scripting)
+- JavaScript (occasionally)
+- HTML & CSS (occasionally)
+
+### 🖥 Backend & DevOps
+- **Flask**, **FastAPI**
+- **Docker** 
+- **Git**
+- **SQL**
+- **Nginx**, HTTPS 
+- **fail2ban**, UFW, VPN
+- JWT, Zero-Trust principles
 
 ## 📦 Highlight Projects
 
