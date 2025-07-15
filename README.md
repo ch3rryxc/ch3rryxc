@@ -8,7 +8,7 @@ Hi, I'm cherryxc. I'm an independent developer focused on automation, security, 
 - 🏠 Built a **Home Assistant** smart home with Zigbee devices (fully self-mounted & Docker-powered)
 - ⚙️ From Minecraft shop bots to email checkers, I automate everything
 - 🔐 Background in **cybersecurity**
-- 💻 First [zero-trust production setup](https://mine.cherryxc.lol:53443/) at 15 — including HTTPS, firewall, fail2ban and JWT
+- 💻 First zero-trust production setup at 15 — including HTTPS, firewall, fail2ban and JWT
 
 ## 🛠️ Tech Stack
 
