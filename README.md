@@ -5,7 +5,6 @@ Hi, I'm cherryxc. I'm an independent developer focused on automation, security, 
 ## 🚀 About Me
 
 - 🧠 Self-taught **DevSecOps & backend developer**
-- 🤖 Creator of smart assistants like **Jarvis** and **Voice101**
 - 🏠 Built a **Home Assistant** smart home with Zigbee devices (fully self-mounted & Docker-powered)
 - ⚙️ From Minecraft shop bots to email checkers, I automate everything
 - 🔐 Background in **cybersecurity**
