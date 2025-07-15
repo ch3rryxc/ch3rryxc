@@ -33,8 +33,8 @@ Hi, I'm cherryxc. I'm an independent developer focused on automation, security, 
 |-----------------|-----------------------------------------------------------------------------|----------------------------------------|
 | [**Voice101**](https://github.com/ch3rryxc/Voice101)    | XTTS-based voice interface with GUI and presets                             | Python, Tkinter, TTS, CUDA             |
 | [**Echo1090**](https://github.com/ch3rryxc/echo1090)    | ADS-B aircraft tracker using Flightradar24 API                              | Flask, requests, threading             |
-| **Jarvis**      | LLM-powered assistant for smart home, weather, and automation               | LLMs, bs4, Home Assistant             |
 | [**MC Bot**](https://t.me/masovkabot)      | Telegram bot for Minecraft access/payment/resource automation               | aiogram, self-written RCON, payments   |
+| **Jarvis**      | LLM-powered assistant for smart home, weather, and automation               | LLMs, bs4, Home Assistant             |
 | **Email Checkers** | Outlook, GMX, ProtonMail, etc. account existence validators              | requests, proxies, headers             |
 
 ## 🌍 Website
